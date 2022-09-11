@@ -1,1 +1,1 @@
-# Git-Automated-with-Rust-for-the-lazy-me-
+# This is s Stupid thing that i did 
